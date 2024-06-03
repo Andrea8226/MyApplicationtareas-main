@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mi Aplicación de Tareas</string>
+    <string name="task_title">Título de la Tarea</string>
+    <string name="task_date">Fecha de la Tarea</string>
+    <string name="task_description">Descripción de la Tarea</string>
+    <string name="add_task">Agregar Tarea</string>
+    <string name="delete_task">Eliminar Tarea</string>
+    <string name="edit_task">Editar Tarea</string>
+    <string name="task_icon">Icono de Tarea</string>
+    <string name="algebra_task_title">Tarea de Álgebra</string>
+    <string name="algebra_task_date">11 Mayo</string>
+    <string name="algebra_task_description">Recuerden el 30 mayo vence la tarea de Álgebra</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="register">Registrarse</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="address">Dirección</string>
+    <string name="id_number">Cédula</string>
+    <string name="phone_number">Número celular</string>
+    <string name="back_to_login">Regresar al inicio de sesión</string>
+    <string name="enter_email">Ingresa tu correo para restaurar la contraseña</string>
+</resources>
+
